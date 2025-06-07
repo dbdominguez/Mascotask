@@ -1,5 +1,7 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {},
+  "name": "Mascotask",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
