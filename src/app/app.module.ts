@@ -8,7 +8,7 @@ import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
-// Importar tus modales
+// Importar modales
 import { EditarPerfilComponent } from './modals/editar-perfil/editar-perfil.component';
 import { ConfiguracionComponent } from './modals/configuracion/configuracion.component';
 import { CerrarSesionComponent } from './modals/cerrar-sesion/cerrar-sesion.component';
